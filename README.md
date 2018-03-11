@@ -1,0 +1,1 @@
+# Simple responsive static website
